@@ -1,0 +1,25 @@
+.search-container {
+    width: 1120px;
+    height: 48px;
+    border: 1px solid #d4defe;
+    border-radius: 24px;
+    margin-top: 64px;
+    display: flex;
+    align-items: center;
+    padding: 0 16px;
+}
+
+.search-container input {
+    flex-grow: 1;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    padding: 8px 0;
+    background-color: transparent;
+}
+
+.search-container img {
+    width: 24px;
+    height: 24px;
+    margin-left: 8px;
+}
